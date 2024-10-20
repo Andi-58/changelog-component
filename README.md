@@ -2,4 +2,4 @@
 
 <br/>Repo ini adalah hasil tugas dari project roadmap.sh
 <br/>Untuk mengetahui bagaimnaa tugas yang dibarikan dapat <a href="https://roadmap.sh/projects/changelog-component">klik ini</a>
-<br/>Sekian Terimakasih sudah mampir
+<br/>Sekian terimakasih sudah mampir
